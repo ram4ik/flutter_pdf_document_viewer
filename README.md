@@ -1,5 +1,7 @@
 # flutterpdfdocumentviewer
 
+![](https://github.com/ram4ik/flutter_pdf_document_viewer/blob/master/assets/Screenshot%202020-03-12%20at%2009.57.45.png)
+
 A new Flutter application.
 
 ## Getting Started
